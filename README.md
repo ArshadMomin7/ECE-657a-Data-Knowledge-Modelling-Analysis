@@ -1,1 +1,1 @@
-# -ECE-657a-Data-Knowledge-Modelling-Analysis
+# ECE-657a-Data-Knowledge-Modelling-Analysis
