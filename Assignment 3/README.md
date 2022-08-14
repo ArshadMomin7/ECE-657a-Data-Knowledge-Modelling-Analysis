@@ -17,5 +17,5 @@ CNN Functions and Getting Loss vs Epoch data
 Accuracy Observations\
 ![accuracy](photos/accuracy.PNG)
 
-TImage reconstruction\
+Image reconstruction\
 ![image](photos/image.PNG)
