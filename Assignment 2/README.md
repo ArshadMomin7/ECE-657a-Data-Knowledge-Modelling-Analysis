@@ -20,6 +20,7 @@ We used Libraries such as Numpy, pandas, Seaborn, Matplotlib, Scipy and Scikit-l
 
 ![best-knn](photos/best-knn.PNG)
 
+
 PCA- Principal Component Analysis
 ![pca](photos/pca.PNG)
 
