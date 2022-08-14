@@ -17,24 +17,23 @@ We used Libraries such as Numpy, pandas, Seaborn, Matplotlib, Scipy and Scikit-l
 
 
 # Few Experimental Results
-
+Getting Best KNN classification
 ![best-knn](photos/best-knn.PNG)
 
-
-PCA- Principal Component Analysis
+PCA- Principal Component Analysis\
 ![pca](photos/pca.PNG)
 
-TSNE
+TSNE\
 ![tsne](photos/tsne.PNG)
 
-Obtaining best KNN classification
+Obtaining best KNN classification\
 ![best-knn](photos/best-knn.PNG)
 
-Decision Tree Classifciation
+Decision Tree Classifciation\
 ![decision-tree](photos/decision-tree.PNG)
 
-Random Forest classification
+Random Forest classification\
 ![random-forest](photos/random-forest.PNG)
 
-Gradient Boosting 
+Gradient Boosting \
 ![gradient](photos/gradient.PNG)
